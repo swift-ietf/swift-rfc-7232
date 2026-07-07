@@ -6,6 +6,6 @@
 //
 
 /// Implementation of RFC 7232: Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests
-/// 
+///
 /// See: https://www.rfc-editor.org/rfc/rfc7232.html
 public enum RFC_7232 {}
